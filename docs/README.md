@@ -2,7 +2,7 @@
 
 - `This project is golang gin demo`
 
-## running
+## running:
     1. $ mkdir golang-gin.
     2. $ cd golang-gin.
     3. $ go mod init vigourzhao/golang-gin.
